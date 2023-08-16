@@ -1,3 +1,5 @@
 # Spalk Tech Test
 
-This repo contains sample files and outputs for the Spalk tech test
+## Setup
+
+- I've included a test script in test_files, just run `chmod -x ./test_script.sh` then `./test_files/test_script.sh`
